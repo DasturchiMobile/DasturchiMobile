@@ -1,4 +1,2 @@
-📚 Texnologiya: Dart, Flutter, Oop, Share Preferens, Hive, Objectbox, Web Socket, Firebase, Http, Rest Api, Streams, Provider, Riverpod, Sample Animations,  Bloc
+📚 Mobile developer
 🇺🇿 Telegram: @AzizbekAsqaraliyev
-IT XIZMATLARI:
-@AzizbekAsqaraliyev
